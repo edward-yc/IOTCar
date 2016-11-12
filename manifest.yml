@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: DriveCar
-  host: drivecar
+  name: edward-yc_dc-01
+  host: edward-yc_dc-01
   disk_quota: 1024M
