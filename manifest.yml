@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: edward-yc_dc-01
-  host: edward-yc
+  host: drivercar
   disk_quota: 1024M
